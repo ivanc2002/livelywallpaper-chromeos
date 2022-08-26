@@ -5,5 +5,5 @@ This is sort of a port, demake, whatever you want to call it of Lively Wallpaper
 ## Changelog
 
 
-#### alpha 1.0
+### alpha 1.0
 initial alpha release
