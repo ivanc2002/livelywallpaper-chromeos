@@ -11,7 +11,7 @@ This is sort of a port, demake, whatever you want to call it of Lively Wallpaper
 
 ## Changelog
 
-### beta 1.0 (unreleased)
+### beta 1.0-b (unreleased)
 created the improved UI, just need to add demo videos and wallpaper selection page with image previews.
 
 ### alpha 1.3
