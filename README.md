@@ -2,8 +2,7 @@
 
 This is sort of a port, demake, whatever you want to call it of Lively Wallpaper by rocksdanister. It can be run on any Chrome OS device from your own personal one to a school/enterprise managed one as long as the github.io domain is not blocked and the ability to install PWAs is also not restricted.
 
-Original Lively Wallpaper project ▶ [https://github.com/rocksdanister/lively](https://github.com/rocksdanister/lively)
-Preview version of release 1.0 available here ▶ [https://ivanc2002.github.io/livelywallpaper-chromeos](https://ivanc2002.github.io/livelywallpaper-chromeos)
+A preview of release 1.0 is available here: https://ivanc2002.github.io/livelywallpaper-chromeos
 
 ## Planned Improvements
 - fix bitrate issues i've been having on some devices for youtube embed based wallpapers.
