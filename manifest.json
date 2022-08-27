@@ -2,7 +2,7 @@
     "name": "Lively Wallpaper",
     "short_name": "Lively Wallpaper",
     "description": "Live wallpapers for your Chrome OS device!", 
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "minimal-ui",
     "orientation": "any", 
     "background_color": "#000000",
