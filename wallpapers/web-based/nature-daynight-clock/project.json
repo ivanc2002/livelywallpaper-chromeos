@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Full, Background Day/Night Cycle, with slide Clock\nWorking on the most 16:9 resolutions.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.12156862745098039 0.12156862745098039 0.36470588235294116"
+			}
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.jpg",
+	"tags" : [ "Relaxing" ],
+	"title" : "Day/Night-Cycle slide-clock",
+	"type" : "web",
+	"visibility" : "public"
+}
