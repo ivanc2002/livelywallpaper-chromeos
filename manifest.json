@@ -9,29 +9,34 @@
     "theme_color": "#000000",
     "icons": [
        {
-        "src": "pwa-icons/32x32.png",
+        "src": "pwa-icons/x48.png",
         "type": "image/png",
-        "sizes": "32x32"
+        "sizes": "48x48",
+        "purpose": "maskable"
        },
        {
-        "src": "pwa-icons/64x64.png",
+        "src": "pwa-icons/x72.png",
         "type": "image/png",
-        "sizes": "64x64"
+        "sizes": "72x72",
+        "purpose": "maskable"
        },
        {
-        "src": "pwa-icons/128x128.png",
+        "src": "pwa-icons/x96.png",
         "type": "image/png",
-        "sizes": "128x128"
+        "sizes": "96x96",
+        "purpose": "maskable"
        },
        {
-        "src": "pwa-icons/256x256.png",
+        "src": "pwa-icons/x192.png",
         "type": "image/png",
-        "sizes": "256x256"
+        "sizes": "192x192",
+        "purpose": "maskable"
        },
        {
-        "src": "pwa-icons/512x512.png",
+        "src": "pwa-icons/x384.png",
         "type": "image/png",
-        "sizes": "512x512"
+        "sizes": "384x384",
+        "purpose": "maskable"
        } 
     ],
     "screenshots": [
@@ -62,8 +67,9 @@
           "url": "index.html",
           "icons": [
             {
-              "src": "pwa-icons/128x128.png",
-              "sizes": "128x128"
+              "src": "pwa-icons/x192.png",
+              "sizes": "192x192",
+              "purpose": "maskable"
             }
           ]
         }
