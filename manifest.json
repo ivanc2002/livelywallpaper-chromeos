@@ -1,6 +1,6 @@
 {
-    "name": "Lively Wallpaper",
-    "short_name": "Lively Wallpaper",
+    "name": "Wallplayper",
+    "short_name": "Wallplayper",
     "description": "Live wallpapers for your Chrome OS device!", 
     "start_url": "https://ivanc2002.github.io/livelywallpaper-chromeos/index.html",
     "display": "minimal-ui",
