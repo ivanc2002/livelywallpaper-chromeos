@@ -1,13 +1,17 @@
-## Lively Wallpaper for Chrome OS
+## Wallplayper for Chrome OS
 
-This is sort of a port, demake, whatever you want to call it of Lively Wallpaper by rocksdanister. It can be run on any Chrome OS device from your own personal one to a school/enterprise managed one as long as the github.io domain is not blocked and the ability to install PWAs is also not restricted.
+Get live and interactive wallpapers for your Chrome OS device. I made this working around the limitations of a managed device from a school or workplace, it does not need the Linux container or even the Play Store to be enabled. This is because managed devices usually restrict the Linux container, and also I don't wan't to publish to the Play Store since that requires a registration fee, approval by Google, and overall is just pretty involved. 
 
-A preview of release 1.0 is available here: https://ivanc2002.github.io/livelywallpaper-chromeos
+Release 1.1 is available here: https://ivanc2002.github.io/livelywallpaper-chromeos
 
 ## Planned Improvements
 - fix bitrate issues i've been having on some devices for youtube embed based wallpapers.
 
 ## Changelog
+
+### release 1.1
+changed name and logo. 
+
 ### release 1.0_preview
 B variant releases have been merged to main releases. most improvements have been completed. (better interface, more wallpapers, wallpaper image previews, interactive wallpapers, dynamic wallpapers).
 
