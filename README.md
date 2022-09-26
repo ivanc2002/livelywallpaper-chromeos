@@ -2,10 +2,11 @@
 
 Get live and interactive wallpapers for your Chrome OS device. I made this working around the limitations of a managed device from a school or workplace, it does not need the Linux container or even the Play Store to be enabled. This is because managed devices usually restrict the Linux container, and also I don't wan't to publish to the Play Store since that requires a registration fee, approval by Google, and overall is just pretty involved. 
 
-Release 1.1 is available here: https://ivanc2002.github.io/livelywallpaper-chromeos
+Release 1.1.1 is available here: https://ivanc2002.github.io/livelywallpaper-chromeos
 
 ## Planned Improvements
 - fix bitrate issues i've been having on some devices for youtube embed based wallpapers.
+- offline mode
 
 ## Changelog
 ### release 1.1.1
