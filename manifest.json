@@ -8,70 +8,32 @@
     "background_color": "#000000",
     "theme_color": "#000000",
     "icons": [
+     {
+      "src": "pwa-icons/x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+      },
+      {
+       "src": "pwa-icons/x384.png",
+       "type": "image/png",
+       "sizes": "384x384",
+       "purpose": "maskable"
+      } 
+    ],
+    "shortcuts": [
        {
-        "src": "pwa-icons/x48.png",
-        "type": "image/png",
-        "sizes": "48x48",
-        "purpose": "maskable"
-       },
-       {
-        "src": "pwa-icons/x72.png",
-        "type": "image/png",
-        "sizes": "72x72",
-        "purpose": "maskable"
-       },
-       {
-        "src": "pwa-icons/x96.png",
-        "type": "image/png",
-        "sizes": "96x96",
-        "purpose": "maskable"
-       },
+        "name": "Wallpapers",
+        "short_name": "Wallpapers",
+        "description": "View available live wallpapers.",
+        "url": "index.html",
+        "icons": [
        {
         "src": "pwa-icons/x192.png",
-        "type": "image/png",
         "sizes": "192x192",
         "purpose": "maskable"
-       },
-       {
-        "src": "pwa-icons/x384.png",
-        "type": "image/png",
-        "sizes": "384x384",
-        "purpose": "maskable"
-       } 
-    ],
-    "screenshots": [
-        {
-          "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
-          "sizes": "2880x1800",
-          "type": "image/png",
-          "description": "PWABuilder Home Screen"
-        },
-        {
-          "src": "https://www.pwabuilder.com/assets/screenshots/screen2.png",
-          "sizes": "2880/1800",
-          "type": "image/png",
-          "description": "PWABuilder Report Card"
-        },
-        {
-          "src": "https://www.pwabuilder.com/assets/screenshots/screen3.png",
-          "sizes": "2880x1800",
-          "type": "image/png",
-          "description": "Manifest information on the Report Card"
-        }
-      ],
-      "shortcuts": [
-        {
-          "name": "Wallpapers",
-          "short_name": "Wallpapers",
-          "description": "View available live wallpapers.",
-          "url": "index.html",
-          "icons": [
-            {
-              "src": "pwa-icons/x192.png",
-              "sizes": "192x192",
-              "purpose": "maskable"
-            }
-          ]
-        }
+       }
       ]
+     }
+   ]
 }
