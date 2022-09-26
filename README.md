@@ -8,6 +8,8 @@ Release 1.1 is available here: https://ivanc2002.github.io/livelywallpaper-chrom
 - fix bitrate issues i've been having on some devices for youtube embed based wallpapers.
 
 ## Changelog
+### release 1.1.1
+tiny update, removed lower resolution pwa icons in manifest.json.
 
 ### release 1.1
 changed name and logo. 
