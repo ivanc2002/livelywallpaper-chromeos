@@ -3,7 +3,7 @@
     "short_name": "Wallplayper",
     "description": "Live wallpapers for your Chrome OS device!", 
     "start_url": "https://ivanc2002.github.io/livelywallpaper-chromeos/index.html",
-    "display": "minimal-ui",
+    "display": "standalone",
     "orientation": "any", 
     "background_color": "#000000",
     "theme_color": "#000000",
